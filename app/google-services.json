@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "458729915319",
+    "project_id": "food-vibz",
+    "storage_bucket": "food-vibz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458729915319:android:f758b37bf69e735e891e32",
+        "android_client_info": {
+          "package_name": "com.example.food_vibz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458729915319-7odvr2ou6gfn9448po1qk9pfsvpl58if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNVzY6WyEh7YhwsV4EWiXwgph3xmfs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458729915319-7odvr2ou6gfn9448po1qk9pfsvpl58if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458729915319:android:02bf7760ec551384891e32",
+        "android_client_info": {
+          "package_name": "com.example.messeatzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458729915319-7odvr2ou6gfn9448po1qk9pfsvpl58if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNVzY6WyEh7YhwsV4EWiXwgph3xmfs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458729915319-7odvr2ou6gfn9448po1qk9pfsvpl58if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

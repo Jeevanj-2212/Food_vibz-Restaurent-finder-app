@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.food_vibz">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Food_vibz"
+        tools:targetApi="31">
+        <activity
+            android:name=".shanti"
+            android:exported="false" />
+        <activity
+            android:name=".wood"
+            android:exported="false" />
+        <activity
+            android:name=".kidi"
+            android:exported="false" />
+        <activity
+            android:name=".anu"
+            android:exported="false" />
+        <activity
+            android:name=".balaji_inn"
+            android:exported="false" />
+        <activity
+            android:name=".prakash"
+            android:exported="false" />
+        <activity
+            android:name=".hotel_sagar"
+            android:exported="false" />
+        <activity
+            android:name=".kateel"
+            android:exported="false" />
+        <activity
+            android:name=".udupi"
+            android:exported="false" />
+        <activity
+            android:name=".karkala"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false"
+            android:label="@string/main_activity_label" />
+        <activity
+            android:name=".sagar"
+            android:exported="false" />
+        <activity
+            android:name=".pancha"
+            android:exported="false" />
+        <activity
+            android:name=".ballal"
+            android:exported="false" />
+        <activity
+            android:name=".padivals"
+            android:exported="false" />
+        <activity
+            android:name=".ideal"
+            android:exported="false" />
+        <activity
+            android:name=".machili"
+            android:exported="false" />
+        <activity
+            android:name=".ocean"
+            android:exported="false" />
+        <activity
+            android:name=".mangalore"
+            android:exported="false" />
+        <activity
+            android:name=".moodabidri"
+            android:exported="false" />
+        <activity
+            android:name=".search"
+            android:exported="false" />
+        <activity
+            android:name=".signin"
+            android:exported="false" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
